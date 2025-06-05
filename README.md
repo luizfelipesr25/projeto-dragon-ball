@@ -1,6 +1,6 @@
 # Projeto Dragal Ball
 
-Projeto que foi feito durante a semana do 0 ao programador do **[Dev em Dobro](https://www.youtube.com/@DevemDobro)**.
+Projeto que foi feito durante a semana do 0 ao programador do <a href= "https://www.youtube.com/@DevemDobro" target="_blank"> **Dev em Dobro** </a>.
 
 ## O projeto
 
@@ -15,7 +15,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Github pages: https://luizfelipesr25.github.io/projeto-dragon-ball/
+- <a href= "https://luizfelipesr25.github.io/projeto-dragon-ball/" target="_blank"> Clique aqui </a> para acessar o projeto pelo Github pages.
 
 ### O que eu aprendi
 
@@ -130,8 +130,8 @@ Melhorar os conceitos das funções no JavaScript para codar de uma maneira mais
 ### Autor
 
 - Site - Luiz Felipe da Silva Rocha
-- Mentoria Dev em Dobro - **[Dev em Dobro](https://www.youtube.com/@DevemDobro)**
+- Mentoria Dev em Dobro - <a href= "https://www.youtube.com/@DevemDobro" target="_blank"> **Dev em Dobro** </a>.
 
 ### Agradecimentos
 
-Agradecimento especial para os gêmeos e toda a equipe do **[Dev em Dobro](https://www.youtube.com/@DevemDobro)**, pelos ensinamentos.
+Agradecimento especial para os gêmeos e toda a equipe do <a href= "https://www.youtube.com/@DevemDobro" target="_blank"> **Dev em Dobro** </a>.
