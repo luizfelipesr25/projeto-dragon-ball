@@ -1,6 +1,17 @@
 # Projeto Dragal Ball
 
-Projeto que foi feito durante a semana do 0 ao programador do <a href= "https://www.youtube.com/@DevemDobro" target="_blank"> **Dev em Dobro** </a>.
+Projeto feito durante a semana do 0 ao programador do <a href= "https://www.youtube.com/@DevemDobro" target="_blank"> **Dev em Dobro**</a>.
+
+## Índice
+- [O projeto](#o-projeto)
+- [Captura de tela](#captura-de-tela)
+- [Links](#links)
+- [Construído com](#construído-com)
+- [O que aprendi](#o-que-eu-aprendi)
+- [Desenvolvimento continuo](#desenvolvimento-contínuo)
+- [Recuros úteis](#recursos-úteis)
+- [Autor](#autor)
+- [Agradecimentos](#agradecimentos)
 
 ## O projeto
 
@@ -11,11 +22,24 @@ Os usuários devem ser capazes de:
 
 ### Captura de tela
 
-<img src="./projeto-dragal-ball.gif">
+- Desktop
+
+<img src="./projeto-dragon-ball.gif">
+
+- Mobile
+
+<img src="./projeto-dragon-ball-mobile.gif">
 
 ### Links
 
-- <a href= "https://luizfelipesr25.github.io/projeto-dragon-ball/" target="_blank"> Clique aqui </a> para acessar o projeto pelo Github pages.
+- Live site URL: <a href= "https://luizfelipesr25.github.io/projeto-dragon-ball/" target="_blank"> Clique aqui</a>.
+
+### Construído com
+
+- HTML
+- CSS
+- JavaScript
+- Responsividade
 
 ### O que eu aprendi
 
@@ -129,7 +153,7 @@ Melhorar os conceitos das funções no JavaScript para codar de uma maneira mais
 
 ### Autor
 
-- Site - Luiz Felipe da Silva Rocha
+- Luiz Felipe da Silva Rocha
 - Mentoria Dev em Dobro - <a href= "https://www.youtube.com/@DevemDobro" target="_blank"> **Dev em Dobro** </a>.
 
 ### Agradecimentos
